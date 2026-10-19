@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tomerfiliba/plumbum/commit/3315d73b3515b8745ed534413fada70281942436",
       "git:hexsha": "3315d73b3515b8745ed534413fada70281942436",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:19:21.079902+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tomerfiliba/plumbum/commit/81f34872c949fccd22644f3b29f6f8ca667c8eec",
